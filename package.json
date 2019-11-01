@@ -10,14 +10,28 @@
     "@gh-conf/upstream-core": "^1.0.1",
     "command-exec": "^1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/**"
+  },
+  "bin": {
+    "upfork": "index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gh-conf/upfork.git"
   },
+  "files": [
+    "index.js",
+    "lib/"
+  ],
   "keywords": [
     "fork",
     "sync",
