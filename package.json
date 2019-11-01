@@ -1,6 +1,6 @@
 {
   "name": "upfork",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sync master branch for forked repository ",
   "main": "index.js",
   "directories": {
