@@ -2,7 +2,7 @@
 
 [![Build](https://img.shields.io/travis/com/gh-conf/upfork.svg)](https://travis-ci.com/gh-conf/upfork/)
 
-Sync master branch for forked repository
+CLI tool to sync master branch of forked repository with remote original repostory
 
 ## Install
 
