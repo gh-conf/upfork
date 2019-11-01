@@ -10,4 +10,4 @@ const fork = async (currentPath) => {
 
 
 // Trigger fork with current path
-fork('/Users/arshad/Arshad/workspace/opensource/taskcluster/');
+fork(process.cwd());
