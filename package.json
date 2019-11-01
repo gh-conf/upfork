@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@gh-conf/upstream-core": "^1.0.0",
+    "@gh-conf/upstream-core": "^1.0.1",
     "command-exec": "^1.0.0"
   },
   "devDependencies": {},
