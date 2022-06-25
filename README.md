@@ -2,9 +2,9 @@
 
 ![Build](https://github.com/gh-conf/upfork/actions/workflows/nodejs.yml/badge.svg)
 [![Github Repo Size](https://img.shields.io/github/repo-size/gh-conf/upfork.svg)](https://github.com/gh-conf/upfork)
-[![LICENSE](https://img.shields.io/npm/l/@gh-conf/upfork.svg)](https://github.com/gh-conf/upfork/blob/master/LICENSE)
-[![NPM Downloads](https://img.shields.io/npm/dt/@gh-conf/upfork.svg)](https://www.npmjs.com/package/@gh-conf/upfork)
-[![NPM Version](https://img.shields.io/npm/v/@gh-conf/upfork.svg)](https://www.npmjs.com/package/@gh-conf/upfork)
+[![LICENSE](https://img.shields.io/npm/l/upfork.svg)](https://github.com/gh-conf/upfork/blob/master/LICENSE)
+[![NPM Downloads](https://img.shields.io/npm/dt/upfork.svg)](https://www.npmjs.com/package/upfork)
+[![NPM Version](https://img.shields.io/npm/v/upfork.svg)](https://www.npmjs.com/package/upfork)
 [![Contributors](https://img.shields.io/github/contributors/gh-conf/upfork.svg)](https://github.com/gh-conf/upfork/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/gh-conf/upfork.svg)](https://github.com/gh-conf/upfork/commits/master)
 
